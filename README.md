@@ -40,5 +40,5 @@ You need to add Blender to your system PATH:
  - 
 2. FBX Import Fails
    
- -Ensure your FBX file is valid and exported correctly.
+ - Ensure your FBX file is valid and exported correctly.
  - Try opening it in Blender manually to confirm it's not corrupted.
